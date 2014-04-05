@@ -1,0 +1,10 @@
+{
+  "name": "instance",
+  "repo": "lvivier/instance",
+  "description": "More better instanceof",
+  "version": "0.0.1",
+  "keywords": ["instance", "type"],
+  "license": "MIT",
+  "scripts": ["index.js"],
+  "main": "index.js"
+}

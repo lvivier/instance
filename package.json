@@ -1,0 +1,11 @@
+{
+  "name": "instance",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvivier/instance.git"
+  },
+  "description": "More better instanceof",
+  "version": "0.0.1",
+  "keywords": ["instance", "type"],
+  "license": "MIT"
+}
